@@ -101,7 +101,7 @@
 - Task: User guesses a 4-digit code (e.g., 5731). Give hints if too low/high.
 - Loop until correct guess.
 4. 🎰 Simple Slot Machine
-- Use: while loop + switch //toDO
+- Use: while loop + switch
 - Task: Simulate 3 slots (🍒, 🍋, 🔔) using Random.
 - switch result: all 3 → "Big Win", 2 same → "Small Win", else → "Try again".
 - Continue until user quits.
